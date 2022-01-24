@@ -1,0 +1,7 @@
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe.config
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.pdb
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.exe
+C:\Users\alper\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.pdb
